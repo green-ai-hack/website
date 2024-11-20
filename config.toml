@@ -85,13 +85,13 @@ paginate = 5
         weight = 2
         identifier = "contact"
         name = "Contact"
-        url = "contact"
+        url = "/contact"
 
     [[languages.en.menu.main]]
         weight = 3
         identifier = "editions"
         name = "Editions"
-        url = "editions"
+        url = "/editions"
 
     [[languages.en.menu.main]]
         weight = 4

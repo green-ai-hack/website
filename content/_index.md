@@ -2,7 +2,7 @@
 
 # What's the Green AI Hack?
 
-The **Green AI Hack** is an AI hackathon that explores the trade-off between performance and environmental footprint of AI models. We aim to **raise awareness** about the environmental impacts of AI and provide **best practices** to reduce them.
+The <mark>**Green AI Hack**</mark> is an AI hackathon that explores the **trade-off between performance and environmental footprint** of AI models. We aim to **raise awareness** about the environmental impacts of AI and provide **best practices** to reduce them.
 
 Each submission is evaluated using two metrics: a **performance metric** (such as accuracy) and an **impact metric** that quantifies the solution's environmental friendliness. The final ranking considers both metrics, rewarding teams that **optimize for both performance and sustainability**.
 

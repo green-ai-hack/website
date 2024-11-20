@@ -7,6 +7,7 @@
     <label for="email" class="form-label">Email:</label><br/>
     <input id="email" name="email" class="form-input" placeholder="john.doe@example.com" type="text"/><br/>
     <label for="message" class="form-label">Message:</label><br/>
-    <textarea id="message" name="message" class="form-input" placeholder="Hello there!" rows="8"></textarea>
+    <textarea id="message" name="message" class="form-input" placeholder="Hello there!" rows="8"></textarea><br/>
+    <button type="submit">Submit</button>
 </fieldset>
 </form>

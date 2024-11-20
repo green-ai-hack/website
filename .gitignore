@@ -91,3 +91,6 @@ typings/
 public
 resources
 .hugo_build.lock
+
+# os
+.DS_Store

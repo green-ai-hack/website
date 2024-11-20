@@ -8,4 +8,4 @@ Over the **two-day hackathon**, teams submitted a total of 160 solutions. The co
 
 Below is a graph showing the top submissions, illustrating the **trade-off between accuracy and environmental impact**:
 
-![Submissions Graph](../images/third_edition_graph.png)
+![Submissions Graph](../img/third_edition_graph.png)

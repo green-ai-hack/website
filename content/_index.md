@@ -1,4 +1,4 @@
-![hero](images/hero.png)
+![hero](img/hero.png)
 
 # What's the Green AI Hack?
 

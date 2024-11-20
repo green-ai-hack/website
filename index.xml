@@ -6,7 +6,8 @@
 &lt;label for="email" class="form-label">Email:&lt;/label>&lt;br/>
 &lt;input id="email" name="email" class="form-input" placeholder="john.doe@example.com" type="text"/>&lt;br/>
 &lt;label for="message" class="form-label">Message:&lt;/label>&lt;br/>
-&lt;textarea id="message" name="message" class="form-input" placeholder="Hello there!" rows="8">&lt;/textarea>
+&lt;textarea id="message" name="message" class="form-input" placeholder="Hello there!" rows="8">&lt;/textarea>&lt;br/>
+&lt;button type="submit">Submit&lt;/button>
 &lt;/fieldset>
 &lt;/form></description><content>&lt;h1 id="contact-us">Contact us&lt;/h1>
 &lt;form action="https://airform.io/admin@greenaihack.org" method="POST">
@@ -16,7 +17,8 @@
 &lt;label for="email" class="form-label">Email:&lt;/label>&lt;br/>
 &lt;input id="email" name="email" class="form-input" placeholder="john.doe@example.com" type="text"/>&lt;br/>
 &lt;label for="message" class="form-label">Message:&lt;/label>&lt;br/>
-&lt;textarea id="message" name="message" class="form-input" placeholder="Hello there!" rows="8">&lt;/textarea>
+&lt;textarea id="message" name="message" class="form-input" placeholder="Hello there!" rows="8">&lt;/textarea>&lt;br/>
+&lt;button type="submit">Submit&lt;/button>
 &lt;/fieldset>
 &lt;/form></content></item><item><title/><link>/editions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/editions/</guid><description>&lt;h1 id="next-edition">Next edition&lt;/h1>
 &lt;p>To be announed&amp;hellip;&lt;/p>

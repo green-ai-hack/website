@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Green AI Hack</title><link>/</link><description>Recent content on Green AI Hack</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/contact/</guid><description>&lt;h1 id="contact-us">Contact us&lt;/h1>
+&lt;form action="https://airform.io/admin@greenaihack.org" method="POST">
+&lt;fieldset>
+&lt;label for="name" class="form-label">Full name:&lt;/label>&lt;br/>
+&lt;input id="name" name="name" class="form-input" placeholder="John Doe" type="text"/>&lt;br/>
+&lt;label for="email" class="form-label">Email:&lt;/label>&lt;br/>
+&lt;input id="email" name="email" class="form-input" placeholder="john.doe@example.com" type="text"/>&lt;br/>
+&lt;label for="message" class="form-label">Message:&lt;/label>&lt;br/>
+&lt;textarea id="message" name="message" class="form-input" placeholder="Hello there!" rows="8">&lt;/textarea>
+&lt;/fieldset>
+&lt;/form></description><content>&lt;h1 id="contact-us">Contact us&lt;/h1>
+&lt;form action="https://airform.io/admin@greenaihack.org" method="POST">
+&lt;fieldset>
+&lt;label for="name" class="form-label">Full name:&lt;/label>&lt;br/>
+&lt;input id="name" name="name" class="form-input" placeholder="John Doe" type="text"/>&lt;br/>
+&lt;label for="email" class="form-label">Email:&lt;/label>&lt;br/>
+&lt;input id="email" name="email" class="form-input" placeholder="john.doe@example.com" type="text"/>&lt;br/>
+&lt;label for="message" class="form-label">Message:&lt;/label>&lt;br/>
+&lt;textarea id="message" name="message" class="form-input" placeholder="Hello there!" rows="8">&lt;/textarea>
+&lt;/fieldset>
+&lt;/form></content></item><item><title/><link>/editions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/editions/</guid><description>&lt;h1 id="next-edition">Next edition&lt;/h1>
+&lt;p>To be announed&amp;hellip;&lt;/p>
+&lt;h1 id="past-editions">Past editions&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="/posts/third_edition/">Nov 2024 @ CentraleSupélec&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/posts/samuel-rince_nlp-softaware-codecarbon-activity-7132752036382560256-SSRi?utm_source=share&amp;utm_medium=member_desktop">Nov 2023 @ CentraleSupélec&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/posts/samuel-rince_nlp-ai-sustainable-activity-7005945516781924352-f8s1?utm_source=share&amp;utm_medium=member_desktop">Dec 2022 @ IA Pau&lt;/a>&lt;/li>
+&lt;/ul></description><content>&lt;h1 id="next-edition">Next edition&lt;/h1>
+&lt;p>To be announed&amp;hellip;&lt;/p>
+&lt;h1 id="past-editions">Past editions&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="/posts/third_edition/">Nov 2024 @ CentraleSupélec&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/posts/samuel-rince_nlp-softaware-codecarbon-activity-7132752036382560256-SSRi?utm_source=share&amp;utm_medium=member_desktop">Nov 2023 @ CentraleSupélec&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/posts/samuel-rince_nlp-ai-sustainable-activity-7005945516781924352-f8s1?utm_source=share&amp;utm_medium=member_desktop">Dec 2022 @ IA Pau&lt;/a>&lt;/li>
+&lt;/ul></content></item><item><title/><link>/posts/third_edition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/third_edition/</guid><description>&lt;h1 id="3rd-edition--centralesupélec">3rd edition @ CentraleSupélec&lt;/h1>
+&lt;p>The &lt;strong>third edition&lt;/strong> of the Green AI Hack took place at &lt;a href="https://centralesupelec.fr/">CentraleSupélec&lt;/a> in November 2024. &lt;strong>More than 20 students&lt;/strong> from the MSc AI participated and solved a classic NLP task: sentiment analysis on movie reviews from IMDb.&lt;/p>
+&lt;p>Many solutions were explored from &lt;strong>traditional ML algorithms&lt;/strong> to &lt;strong>deep learning models&lt;/strong> and &lt;strong>transformers&lt;/strong>. The best team managed to score a good accuracy score as well as minimizing environmental impacts by combining different algorithms.&lt;/p></description><content>&lt;h1 id="3rd-edition--centralesupélec">3rd edition @ CentraleSupélec&lt;/h1>
+&lt;p>The &lt;strong>third edition&lt;/strong> of the Green AI Hack took place at &lt;a href="https://centralesupelec.fr/">CentraleSupélec&lt;/a> in November 2024. &lt;strong>More than 20 students&lt;/strong> from the MSc AI participated and solved a classic NLP task: sentiment analysis on movie reviews from IMDb.&lt;/p>
+&lt;p>Many solutions were explored from &lt;strong>traditional ML algorithms&lt;/strong> to &lt;strong>deep learning models&lt;/strong> and &lt;strong>transformers&lt;/strong>. The best team managed to score a good accuracy score as well as minimizing environmental impacts by combining different algorithms.&lt;/p>
+&lt;p>Over the &lt;strong>two-day hackathon&lt;/strong>, teams submitted a total of 160 solutions. The combined &lt;strong>carbon footprint&lt;/strong> of these submissions was arround &lt;strong>20 gCO2eq&lt;/strong> which account for less than ~20 min of video streaming (&lt;a href="https://impactco2.fr">impactco2.fr&lt;/a>).&lt;/p>
+&lt;p>Below is a graph showing the top submissions, illustrating the &lt;strong>trade-off between accuracy and environmental impact&lt;/strong>:&lt;/p>
+&lt;p>&lt;img alt="Submissions Graph" src="../images/third_edition_graph.png">&lt;/p></content></item></channel></rss>

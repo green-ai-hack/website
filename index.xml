@@ -41,4 +41,4 @@
 &lt;p>Many solutions were explored from &lt;strong>traditional ML algorithms&lt;/strong> to &lt;strong>deep learning models&lt;/strong> and &lt;strong>transformers&lt;/strong>. The best team managed to score a good accuracy score as well as minimizing environmental impacts by combining different algorithms.&lt;/p>
 &lt;p>Over the &lt;strong>two-day hackathon&lt;/strong>, teams submitted a total of 160 solutions. The combined &lt;strong>carbon footprint&lt;/strong> of these submissions was arround &lt;strong>20 gCO2eq&lt;/strong> which account for less than ~20 min of video streaming (&lt;a href="https://impactco2.fr">impactco2.fr&lt;/a>).&lt;/p>
 &lt;p>Below is a graph showing the top submissions, illustrating the &lt;strong>trade-off between accuracy and environmental impact&lt;/strong>:&lt;/p>
-&lt;p>&lt;img alt="Submissions Graph" src="../images/third_edition_graph.png">&lt;/p></content></item></channel></rss>
+&lt;p>&lt;img alt="Submissions Graph" src="../img/third_edition_graph.png">&lt;/p></content></item></channel></rss>

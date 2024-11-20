@@ -56,10 +56,10 @@ paginate = 5
     title = "Green AI Hack"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
+      subtitle = "An AI hackathon that explores the trade-off between performance and environmental footprint of AI models."
+      owner = "Green AI Hack"
       keywords = ""
-      copyright = ""
+      copyright = "Green AI Hack"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
